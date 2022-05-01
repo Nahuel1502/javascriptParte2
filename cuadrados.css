@@ -1,0 +1,33 @@
+.cuadrados{
+ display: flex;
+ margin-top: 300px;
+ margin-left: 400px;
+}
+
+
+
+
+
+#fondoRojo{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+#fondoAzul{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+#fondoVerde{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
+
+
+#default{
+    height: 50px;
+    width: 50px;
+    background-color: white;
+}
